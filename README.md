@@ -18,6 +18,7 @@
 ## 프로젝트 구조 💜
 
 `frontend/main-topic/sub-topic/your-git-id`
+
 `frontend/JavaScript/API/Ajax/tlsdhsdb`
 
 
@@ -25,6 +26,7 @@
 ## 커밋 규칙 💜
 
 `topic your-title your-git-id`
+
 `Ajax Ajax란 무엇인가? tlsdhsdb`
 
 
@@ -47,6 +49,7 @@
 ## 문의사항💜
 
 우리 스터디에 관심이 있으시거나 문의하실 사항이 있으면 연락주세요
+
 `dhsdb02@gmail.com`
 
 
