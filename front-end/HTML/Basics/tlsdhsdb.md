@@ -2,6 +2,52 @@
 
 
 
+### HTML 이란 ?
+
+HTML은 HyperText Markup Language의 약자입니다.
+
+### HTML 태그
+
+``` html
+<body> // 시작 태그
+    
+</body> // 종료 태그
+```
+
+`<img>` `<br>` `<hr>` 등과 같이 종료 태그 없이 시작 태그만을 가지는 태그를 빈 태그(empty tag)라고 합니다.
+
+### 기본구조
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>	</title>
+    </head>
+    <body>
+        <h1>
+            제목 1
+        </h1>
+        <h2>
+            제목 2
+        </h2>
+    </body>
+</html>
+```
+
+`<html>` html 문서의 루트 요소를 정의.
+
+`<head>` html 문서의 메타데이터를 정의
+
+### HTML 요소의 구조
+
+![image-20210226161005127](https://user-images.githubusercontent.com/42714724/109756860-0d641480-7c2c-11eb-89b6-3290642d75e7.png)
+
+
+
+
+### 주요태그
+
 ### 단락 - P 
 
 Paragraph 의 줄임말로 단락을 표현할 때 사용합니다.
